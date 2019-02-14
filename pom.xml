@@ -89,12 +89,12 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://ec2-3-88-254-192.compute-1.amazonaws.com:8081/repository/maven-releases/</url>
+	      <url>http://18.191.198.148:8081/repository/maven-releases/</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://ec2-3-88-254-192.compute-1.amazonaws.com:8081/repository/maven-snapshots/</url>
+	      <url>http://18.191.198.148:8081/repository/maven-snapshots/</url>
 	    </snapshotRepository>
 	</distributionManagement>
 	
